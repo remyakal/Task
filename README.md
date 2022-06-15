@@ -1,5 +1,5 @@
 # Introduction 
-Getting the input latitude and longitude. Getting the timezone by submitting the coordinates. Displaye the current time of the submitted coordinates by converting sytem time to correct timezone
+Getting the input latitude and longitude. Getting the timezone by submitting the coordinates. Display the current time of the submitted coordinates by converting sytem time to correct timezone
 
 # Getting Started
 1.	Installation process
