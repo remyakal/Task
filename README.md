@@ -12,6 +12,7 @@ Getting the input latitude and longitude. Getting the timezone by submitting the
 
 # Build and Test
  1.Create a React app named task  with template as typescript
+ 
     $ npx create-react-app task 
     $ cd my-app
     and run the app by npm start. 
